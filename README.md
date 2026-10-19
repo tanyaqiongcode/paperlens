@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="license"/></a>
-  <a href="https://github.com/tanyaqiong31029/paperlens/actions/workflows/ci.yml"><img src="https://github.com/tanyaqiong31029/paperlens/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
+  <a href="https://github.com/tanyaqiongcode/paperlens/actions/workflows/ci.yml"><img src="https://github.com/tanyaqiongcode/paperlens/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
   <img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="python"/>
   <img src="https://img.shields.io/badge/react-18-61dafb.svg" alt="react"/>
   <img src="https://img.shields.io/badge/%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD-%E6%94%AF%E6%8C%81-orange.svg" alt="zh/en"/>
