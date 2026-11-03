@@ -260,3 +260,15 @@ GET  /api/engines                    引擎清单        POST /api/engines/{key}
 ## License
 
 [MIT](LICENSE)
+
+---
+
+## 相关项目
+
+- [paper-grader](https://github.com/tanyaqiongcode/paper-grader) — 中文学术论文 LLM 辅助批量批改（可插拔量规 + 置信度）
+- [Bilingual-Term-Extract](https://github.com/tanyaqiongcode/Bilingual-Term-Extract) — 平行文本双语术语提取（统计召回 + LLM 精筛，TBX 导出）
+- [nlp-learning-site](https://github.com/tanyaqiongcode/nlp-learning-site) — 面向文科生的 NLP 学习站（含 LLM 评测素养专题）
+- [Mini-CAT](https://github.com/tanyaqiongcode/mini-cat) — 浏览器端翻译记忆 CAT 工具（零依赖，数据不出本机）
+- [multi-align](https://github.com/tanyaqiongcode/multi-align) — 多语平行语料句对齐工作台（Gale-Church，TMX 导出）
+- [weread-shelf-organizer](https://github.com/tanyaqiongcode/weread-shelf-organizer) — 微信读书书架自动整理 Skill
+- 更多作品见 [github.com/tanyaqiongcode](https://github.com/tanyaqiongcode)
